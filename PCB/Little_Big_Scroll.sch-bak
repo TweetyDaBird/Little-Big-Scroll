@@ -589,4 +589,15 @@ Wire Wire Line
 Connection ~ 3550 1950
 Wire Wire Line
 	3550 1950 3200 1950
+$Comp
+L Keyboard_Library:CC-BY-NC-SA_4.0 Lic1
+U 1 1 61AA7ADE
+P 10250 6000
+F 0 "Lic1" H 10250 6265 50  0000 C CNN
+F 1 "CC-BY-NC-SA_4.0" H 10250 6174 50  0000 C CNN
+F 2 "Keyboard Library:CC_BY_NC_SA" H 10250 6000 50  0001 C CNN
+F 3 "" H 10250 6000 50  0001 C CNN
+	1    10250 6000
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

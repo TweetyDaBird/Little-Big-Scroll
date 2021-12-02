@@ -55,6 +55,18 @@ X ~ 2 0 -100 30 U 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Keyboard_Library_CC-BY-SA_4.0
+#
+DEF Keyboard_Library_CC-BY-SA_4.0 Lic 0 40 Y Y 1 F N
+F0 "Lic" 0 50 50 H V C CNN
+F1 "Keyboard_Library_CC-BY-SA_4.0" 0 -50 50 H V C CNN
+F2 "Keyboard Library:CC_BY_SA_40" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -400 100 400 -100 0 1 0 N
+ENDDRAW
+ENDDEF
+#
 # Keyboard_Library_Hole
 #
 DEF Keyboard_Library_Hole H 0 40 Y Y 1 F N

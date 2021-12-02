@@ -9,7 +9,7 @@ Date "2021-11-30"
 Rev "v1.0"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
-Comment2 "Licensed under CERN-OHL-S v2 or superseding version"
+Comment2 "Licensed under Creative Commons Attribution-ShareAlike 4.0 International"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -589,4 +589,15 @@ Wire Wire Line
 Connection ~ 3550 1950
 Wire Wire Line
 	3550 1950 3200 1950
+$Comp
+L Keyboard_Library:CC-BY-SA_4.0 Lic1
+U 1 1 61A8D2CA
+P 9950 5950
+F 0 "Lic1" H 9950 6215 50  0000 C CNN
+F 1 "CC-BY-SA_4.0" H 9950 6124 50  0000 C CNN
+F 2 "Keyboard Library:CC_BY_SA_40" H 9950 5950 50  0001 C CNN
+F 3 "" H 9950 5950 50  0001 C CNN
+	1    9950 5950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

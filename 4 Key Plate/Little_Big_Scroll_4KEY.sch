@@ -9,7 +9,7 @@ Date "2021-11-30"
 Rev "v1.0"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
-Comment2 "Licensed under CERN-OHL-S v2 or superseding version"
+Comment2 "Licensed under Creative Commons Attribution-ShareAlike 4.0 International"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -110,6 +110,17 @@ F 1 "SW_Push" H 5050 1744 50  0000 C CNN
 F 2 "keyswitches:Cherry_MX_Plate_Placeholder" H 5050 1750 50  0001 C CNN
 F 3 "~" H 5050 1750 50  0001 C CNN
 	1    5050 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Keyboard_Library:CC-BY-SA_4.0 Lic1
+U 1 1 61A8B584
+P 8850 5500
+F 0 "Lic1" H 8850 5765 50  0000 C CNN
+F 1 "CC-BY-SA_4.0" H 8850 5674 50  0000 C CNN
+F 2 "Keyboard Library:CC_BY_SA_40" H 8850 5500 50  0001 C CNN
+F 3 "" H 8850 5500 50  0001 C CNN
+	1    8850 5500
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

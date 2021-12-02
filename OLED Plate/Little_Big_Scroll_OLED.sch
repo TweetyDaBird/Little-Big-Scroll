@@ -9,7 +9,7 @@ Date "2021-11-30"
 Rev "v1.0"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
-Comment2 "Licensed under CERN-OHL-S v2 or superseding version"
+Comment2 "Licensed under Creative Commons Attribution-ShareAlike 4.0 International"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -96,9 +96,20 @@ U 1 1 619F4369
 P 2700 4200
 F 0 "OLED1" H 2700 3900 50  0000 L CNN
 F 1 "OLED_4pin" H 2650 4400 50  0000 L CNN
-F 2 "KiCad-SSD1306-0.91-OLED-4pin-128x32:SSD1306-0.91-OLED-4pin-128x32" H 2700 4200 50  0001 C CNN
+F 2 "keyswitches:OLED_plate_placeholder" H 2700 4200 50  0001 C CNN
 F 3 "~" H 2700 4200 50  0001 C CNN
 	1    2700 4200
 	1    0    0    1   
+$EndComp
+$Comp
+L Keyboard_Library:CC-BY-SA_4.0 Lic1
+U 1 1 61A8A884
+P 9300 5250
+F 0 "Lic1" H 9300 5515 50  0000 C CNN
+F 1 "CC-BY-SA_4.0" H 9300 5424 50  0000 C CNN
+F 2 "Keyboard Library:CC_BY_SA_40" H 9300 5250 50  0001 C CNN
+F 3 "" H 9300 5250 50  0001 C CNN
+	1    9300 5250
+	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
