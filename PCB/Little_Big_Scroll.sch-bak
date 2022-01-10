@@ -9,7 +9,7 @@ Date "2021-11-30"
 Rev "v1.0"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
-Comment2 "Licensed under CERN-OHL-S v2 or superseding version"
+Comment2 "Licensed under Creative Commons Attribution-ShareAlike 4.0 International"
 Comment3 ""
 Comment4 ""
 $EndDescr
@@ -115,12 +115,12 @@ F 3 "~" H 6250 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Keyboard_Library:Rotary_Encoder_Switch_GND SW7
+L Keyboard_Library:Rotary_Encoder_Switch_GND SW5
 U 1 1 61F0CC2E
 P 8850 2050
-F 0 "SW7" H 8850 2417 50  0000 C CNN
+F 0 "SW5" H 8850 2417 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 8850 2326 50  0000 C CNN
-F 2 "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8700 2210 50  0001 C CNN
+F 2 "Keyboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8700 2210 50  0001 C CNN
 F 3 "~" H 8850 2310 50  0001 C CNN
 	1    8850 2050
 	1    0    0    -1  
@@ -590,14 +590,14 @@ Connection ~ 3550 1950
 Wire Wire Line
 	3550 1950 3200 1950
 $Comp
-L Keyboard_Library:CC-BY-NC-SA_4.0 Lic1
-U 1 1 61AA7ADE
-P 10250 6000
-F 0 "Lic1" H 10250 6265 50  0000 C CNN
-F 1 "CC-BY-NC-SA_4.0" H 10250 6174 50  0000 C CNN
-F 2 "Keyboard Library:CC_BY_NC_SA" H 10250 6000 50  0001 C CNN
-F 3 "" H 10250 6000 50  0001 C CNN
-	1    10250 6000
+L Keyboard_Library:CC-BY-SA_4.0 Lic1
+U 1 1 61A8D2CA
+P 9950 5950
+F 0 "Lic1" H 9950 6215 50  0000 C CNN
+F 1 "CC-BY-SA_4.0" H 9950 6124 50  0000 C CNN
+F 2 "Keyboard Library:CC_BY_SA_40" H 9950 5950 50  0001 C CNN
+F 3 "" H 9950 5950 50  0001 C CNN
+	1    9950 5950
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

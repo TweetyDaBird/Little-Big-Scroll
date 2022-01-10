@@ -115,12 +115,12 @@ F 3 "~" H 6250 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Keyboard_Library:Rotary_Encoder_Switch_GND SW7
+L Keyboard_Library:Rotary_Encoder_Switch_GND SW5
 U 1 1 61F0CC2E
 P 8850 2050
-F 0 "SW7" H 8850 2417 50  0000 C CNN
+F 0 "SW5" H 8850 2417 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 8850 2326 50  0000 C CNN
-F 2 "Keebio-Parts:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8700 2210 50  0001 C CNN
+F 2 "Keyboard Library:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm" H 8700 2210 50  0001 C CNN
 F 3 "~" H 8850 2310 50  0001 C CNN
 	1    8850 2050
 	1    0    0    -1  
@@ -372,7 +372,7 @@ U 1 1 61A3AE79
 P 1900 4300
 F 0 "R2" H 2050 4350 50  0000 R CNN
 F 1 "4K7" H 2100 4250 50  0000 R CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 1900 4300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1900 4300 50  0001 C CNN
 F 3 "~" H 1900 4300 50  0001 C CNN
 	1    1900 4300
 	-1   0    0    -1  
@@ -383,7 +383,7 @@ U 1 1 61A3BDA7
 P 2050 4300
 F 0 "R1" H 2109 4346 50  0000 L CNN
 F 1 "4K7" H 2109 4255 50  0000 L CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" H 2050 4300 50  0001 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 2050 4300 50  0001 C CNN
 F 3 "~" H 2050 4300 50  0001 C CNN
 	1    2050 4300
 	1    0    0    -1  

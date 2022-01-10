@@ -19,7 +19,7 @@ U 1 1 61F0CC2E
 P 8850 2050
 F 0 "SW7" H 8850 2417 50  0000 C CNN
 F 1 "Rotary_Encoder_Switch" H 8850 2326 50  0000 C CNN
-F 2 "keyswitches:RotaryEncoder_PlateHole_Placeholder" H 8700 2210 50  0001 C CNN
+F 2 "Keyboard Library:RotaryEncoder_PlateHole_Breakoff" H 8700 2210 50  0001 C CNN
 F 3 "~" H 8850 2310 50  0001 C CNN
 	1    8850 2050
 	1    0    0    -1  
@@ -74,7 +74,7 @@ U 1 1 61F0A1A5
 P 6250 2600
 F 0 "SW4" H 6250 2885 50  0000 C CNN
 F 1 "SW_Push" H 6250 2794 50  0000 C CNN
-F 2 "keyswitches:Cherry_MX_Plate_Placeholder" H 6250 2800 50  0001 C CNN
+F 2 "Keyboard Library:Cherry_MX_Plate_Hole_Breakoff" H 6250 2800 50  0001 C CNN
 F 3 "~" H 6250 2800 50  0001 C CNN
 	1    6250 2600
 	1    0    0    -1  
@@ -85,7 +85,7 @@ U 1 1 61F08FF4
 P 5850 2250
 F 0 "SW3" H 5850 2535 50  0000 C CNN
 F 1 "SW_Push" H 5850 2444 50  0000 C CNN
-F 2 "keyswitches:Cherry_MX_Plate_Placeholder" H 5850 2450 50  0001 C CNN
+F 2 "Keyboard Library:Cherry_MX_Plate_Hole_Breakoff" H 5850 2450 50  0001 C CNN
 F 3 "~" H 5850 2450 50  0001 C CNN
 	1    5850 2250
 	1    0    0    -1  
@@ -96,7 +96,7 @@ U 1 1 61F08A46
 P 5450 1900
 F 0 "SW2" H 5450 2185 50  0000 C CNN
 F 1 "SW_Push" H 5450 2094 50  0000 C CNN
-F 2 "keyswitches:Cherry_MX_Plate_Placeholder" H 5450 2100 50  0001 C CNN
+F 2 "Keyboard Library:Cherry_MX_Plate_Hole_Breakoff" H 5450 2100 50  0001 C CNN
 F 3 "~" H 5450 2100 50  0001 C CNN
 	1    5450 1900
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 61F07A41
 P 5050 1550
 F 0 "SW1" H 5050 1835 50  0000 C CNN
 F 1 "SW_Push" H 5050 1744 50  0000 C CNN
-F 2 "keyswitches:Cherry_MX_Plate_Placeholder" H 5050 1750 50  0001 C CNN
+F 2 "Keyboard Library:Cherry_MX_Plate_Hole_Breakoff" H 5050 1750 50  0001 C CNN
 F 3 "~" H 5050 1750 50  0001 C CNN
 	1    5050 1550
 	1    0    0    -1  
