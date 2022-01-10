@@ -35,7 +35,18 @@ A low-cost and easy to build macro pad intended for among other things media con
 | Rotary Encoder | 1 | X | | [link](https://www.aliexpress.com/item/10000056483250.html?spm=a2g0o.productlist.0.0.64951c5fKcPiug&algo_pvid=b530d9b1-fbd2-4598-bf53-bece1343826f&algo_expid=b530d9b1-fbd2-4598-bf53-bece1343826f-2&btsid=2100bdd016135510210168102eefcc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) |
 | Rotary Encoder Knob | 1 | X | Clearance for max 40 mm diameter, pick halfshaft or spline according to encoder choice.  | [link](https://www.aliexpress.com/item/10000056483250.html?spm=a2g0o.productlist.0.0.64951c5fKcPiug&algo_pvid=b530d9b1-fbd2-4598-bf53-bece1343826f&algo_expid=b530d9b1-fbd2-4598-bf53-bece1343826f-2&btsid=2100bdd016135510210168102eefcc&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_) |
 
+## Buildguide
 
+### Step-by-step
+- Solder hotswap sockets in markings
+- Solder capacitors C1 & C2 in markings
+- **Optional:** Solder Resistors R1 & R2 & OLED Screen
+- Solder Encoder
+- Prepare plates
+- Assemble plate/spacers
+- Insert switches and add encoder wheel
+- Program
+- Enjoy!
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
