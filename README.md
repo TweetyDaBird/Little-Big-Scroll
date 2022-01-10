@@ -1,7 +1,6 @@
 # Little Big Scroll 4
 
-![Image](https://github.com/TweetyDaBird/Little-Big-Scroll/blob/daf756bae2ff05c6636f5dcc250322e0d99e5e6f/Images/IMG_0174.JPEG)
-![Image](https://github.com/TweetyDaBird/Little-Big-Scroll/blob/daf756bae2ff05c6636f5dcc250322e0d99e5e6f/Images/IMG_0173.JPEG)
+![Image](https://github.com/TweetyDaBird/Little-Big-Scroll/blob/7a4c3165677afa018ba42a5ced82e3b60955e680/Images/1.jpg)
 
 A low-cost and easy to build macro pad intended for among other things media controls. 
 
