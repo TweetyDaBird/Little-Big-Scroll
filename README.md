@@ -1,4 +1,24 @@
-# Little-Big-Scroll
+# Little Big Scroll 4
+
+A low-cost and easy to build macro pad intended for among other things media controls. 
+
+- Uses a Promicro/Elite C or equivalent controller
+- Programmable with QMK and VIAL
+- Cherry MX style keyswitches
+- Kaihl hot swap sockets
+- Clickable Rotary encoder with up to 40mm wheel
+- Optional 0.91" 128x32 OLED screen
+- Designed with a complete sandwich case for an easy build
+
+
+
+
+
+
+
+
+
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
