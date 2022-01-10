@@ -1,5 +1,7 @@
 # Little Big Scroll 4
 
+[!Image](https://github.com/TweetyDaBird/Little-Big-Scroll/blob/daf756bae2ff05c6636f5dcc250322e0d99e5e6f/Images/IMG_0173.JPEG)
+
 A low-cost and easy to build macro pad intended for among other things media controls. 
 
 - Uses a Promicro/Elite C or equivalent controller
