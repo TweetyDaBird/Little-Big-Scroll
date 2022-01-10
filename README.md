@@ -39,11 +39,11 @@ A low-cost and easy to build macro pad intended for among other things media con
 
 ### Step-by-step
 - Solder hotswap sockets in markings
-- Solder capacitors C1 & C2 in markings
-- **Optional:** Solder Resistors R1 & R2 & OLED Screen
+- Solder capacitors C1, C2 in markings
+- **Optional:** Solder Resistors R1, R2 & OLED Screen
 - Solder Encoder
-- Prepare plates
-- Assemble plate/spacers
+- Prepare the front plate you're using by removing tabs and filing.
+- Assemble plate/spacers, unused plate forms the bottom.
 - Insert switches and add encoder wheel
 - Program
 - Enjoy!
