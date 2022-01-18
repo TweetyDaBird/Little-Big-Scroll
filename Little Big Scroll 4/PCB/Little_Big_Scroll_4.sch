@@ -25,9 +25,6 @@ F 3 "" V 3550 -100 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 NoConn ~ 3200 1850
-NoConn ~ 3200 2850
-Text GLabel 1800 1950 0    50   Output ~ 0
-RGB
 $Comp
 L power:GND #PWR0101
 U 1 1 61F0277F
@@ -73,46 +70,46 @@ $EndComp
 $Comp
 L Switch:SW_Push SW1
 U 1 1 61F07A41
-P 5050 1550
-F 0 "SW1" H 5050 1835 50  0000 C CNN
-F 1 "SW_Push" H 5050 1744 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_RGB" H 5050 1750 50  0001 C CNN
-F 3 "~" H 5050 1750 50  0001 C CNN
-	1    5050 1550
-	1    0    0    -1  
+P 5050 1350
+F 0 "SW1" H 5050 1635 50  0000 C CNN
+F 1 "SW_Push" H 5050 1544 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_RGB" H 5050 1550 50  0001 C CNN
+F 3 "~" H 5050 1550 50  0001 C CNN
+	1    5050 1350
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW2
 U 1 1 61F08A46
-P 5450 1900
-F 0 "SW2" H 5450 2185 50  0000 C CNN
-F 1 "SW_Push" H 5450 2094 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_RGB" H 5450 2100 50  0001 C CNN
-F 3 "~" H 5450 2100 50  0001 C CNN
-	1    5450 1900
-	1    0    0    -1  
+P 5600 1350
+F 0 "SW2" H 5600 1635 50  0000 C CNN
+F 1 "SW_Push" H 5600 1544 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_RGB" H 5600 1550 50  0001 C CNN
+F 3 "~" H 5600 1550 50  0001 C CNN
+	1    5600 1350
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW3
 U 1 1 61F08FF4
-P 5850 2250
-F 0 "SW3" H 5850 2535 50  0000 C CNN
-F 1 "SW_Push" H 5850 2444 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_RGB" H 5850 2450 50  0001 C CNN
-F 3 "~" H 5850 2450 50  0001 C CNN
-	1    5850 2250
-	1    0    0    -1  
+P 5050 2050
+F 0 "SW3" H 5050 2335 50  0000 C CNN
+F 1 "SW_Push" H 5050 2244 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_RGB" H 5050 2250 50  0001 C CNN
+F 3 "~" H 5050 2250 50  0001 C CNN
+	1    5050 2050
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW4
 U 1 1 61F0A1A5
-P 6250 2600
-F 0 "SW4" H 6250 2885 50  0000 C CNN
-F 1 "SW_Push" H 6250 2794 50  0000 C CNN
-F 2 "keyswitches:Kailh_socket_MX_RGB" H 6250 2800 50  0001 C CNN
-F 3 "~" H 6250 2800 50  0001 C CNN
-	1    6250 2600
-	1    0    0    -1  
+P 5600 2050
+F 0 "SW4" H 5600 2335 50  0000 C CNN
+F 1 "SW_Push" H 5600 2244 50  0000 C CNN
+F 2 "keyswitches:Kailh_socket_MX_RGB" H 5600 2250 50  0001 C CNN
+F 3 "~" H 5600 2250 50  0001 C CNN
+	1    5600 2050
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Keyboard_Library:Rotary_Encoder_Switch_GND SW5
@@ -362,10 +359,6 @@ ENC_B
 Wire Wire Line
 	7900 2250 8100 2250
 Connection ~ 8100 2250
-Text GLabel 3200 2650 2    50   Input ~ 0
-ENC_A
-Text GLabel 3200 2550 2    50   Input ~ 0
-ENC_B
 $Comp
 L Device:R_Small R2
 U 1 1 61A3AE79
@@ -515,62 +508,18 @@ F 3 "" H 9900 3050 50  0001 C CNN
 	1    9900 3050
 	1    0    0    -1  
 $EndComp
-Text GLabel 5250 1100 0    50   Input ~ 0
+Text GLabel 5250 900  0    50   Input ~ 0
 COL0
-Text GLabel 5650 1100 0    50   Input ~ 0
+Text GLabel 5800 900  0    50   Input ~ 0
 COL1
-Text GLabel 6050 1100 0    50   Input ~ 0
-COL2
-Text GLabel 6450 1100 0    50   Input ~ 0
-COL3
-Text GLabel 4850 1550 0    50   Input ~ 0
+Text GLabel 4750 1650 0    50   Input ~ 0
 ROW0
-Text GLabel 4850 1900 0    50   Input ~ 0
+Text GLabel 4750 2350 0    50   Input ~ 0
 ROW1
-Text GLabel 4850 2250 0    50   Input ~ 0
-ROW2
-Text GLabel 4850 2600 0    50   Input ~ 0
-ROW3
 Wire Wire Line
-	5250 1900 4850 1900
+	5250 900  5250 1350
 Wire Wire Line
-	5250 1100 5250 1550
-Wire Wire Line
-	5650 1900 5650 1100
-Wire Wire Line
-	4850 2250 5650 2250
-Wire Wire Line
-	6050 2250 6050 1100
-Wire Wire Line
-	6050 2600 4850 2600
-Wire Wire Line
-	6450 2600 6450 1100
-Text GLabel 9150 1950 2    50   Input ~ 0
-COL4
-Text GLabel 9150 2150 2    50   Input ~ 0
-ROW4
-Text GLabel 1800 1850 0    50   Input ~ 0
-ROW0
-Text GLabel 1800 2450 0    50   Input ~ 0
-ROW1
-Text GLabel 1800 2950 0    50   Input ~ 0
-ROW2
-Text GLabel 1800 2750 0    50   Input ~ 0
-ROW3
-Text GLabel 3200 2250 2    50   Input ~ 0
-ROW4
-Text GLabel 1800 2850 0    50   Input ~ 0
-COL3
-Text GLabel 3200 2950 2    50   Input ~ 0
-COL2
-Text GLabel 1800 2550 0    50   Input ~ 0
-COL1
-Text GLabel 1800 2650 0    50   Input ~ 0
-COL0
-Text GLabel 3200 2350 2    50   Input ~ 0
-COL4
-NoConn ~ 3200 2450
-NoConn ~ 3200 2750
+	4750 2350 4850 2350
 $Comp
 L Connector_Generic:Conn_01x02 J1
 U 1 1 61AF0902
@@ -600,4 +549,97 @@ F 3 "" H 9950 5950 50  0001 C CNN
 	1    9950 5950
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	5800 1350 5800 900 
+$Comp
+L Diode:1N4148 D1
+U 1 1 61E206D2
+P 4850 1500
+F 0 "D1" V 4896 1420 50  0000 R CNN
+F 1 "1N4148" V 4805 1420 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4850 1325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4850 1500 50  0001 C CNN
+	1    4850 1500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D2
+U 1 1 61E253A0
+P 5400 1500
+F 0 "D2" V 5446 1420 50  0000 R CNN
+F 1 "1N4148" V 5355 1420 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 1325 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 1500 50  0001 C CNN
+	1    5400 1500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4750 1650 4850 1650
+Connection ~ 4850 1650
+Wire Wire Line
+	4850 1650 5400 1650
+$Comp
+L Diode:1N4148 D3
+U 1 1 61E2B13C
+P 4850 2200
+F 0 "D3" V 4896 2120 50  0000 R CNN
+F 1 "1N4148" V 4805 2120 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 4850 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 4850 2200 50  0001 C CNN
+	1    4850 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Diode:1N4148 D4
+U 1 1 61E2BE9C
+P 5400 2200
+F 0 "D4" V 5446 2120 50  0000 R CNN
+F 1 "1N4148" V 5355 2120 50  0000 R CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 5400 2025 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 5400 2200 50  0001 C CNN
+	1    5400 2200
+	0    -1   -1   0   
+$EndComp
+Connection ~ 4850 2350
+Wire Wire Line
+	4850 2350 5400 2350
+Wire Wire Line
+	5250 1350 5250 2050
+Connection ~ 5250 1350
+Wire Wire Line
+	5800 1350 5800 2050
+Connection ~ 5800 1350
+Text GLabel 9450 1950 2    50   Input ~ 0
+ROW0
+Text GLabel 9450 2150 2    50   Input ~ 0
+COL3
+Text GLabel 1800 1950 0    50   Output ~ 0
+RGB
+$Comp
+L Diode:1N4148 D5
+U 1 1 61E57772
+P 9300 1950
+F 0 "D5" H 9300 2167 50  0000 C CNN
+F 1 "1N4148" H 9300 2076 50  0000 C CNN
+F 2 "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal" H 9300 1775 50  0001 C CNN
+F 3 "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf" H 9300 1950 50  0001 C CNN
+	1    9300 1950
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9450 2150 9150 2150
+Text GLabel 1800 2850 0    50   Input ~ 0
+ROW0
+Text GLabel 1800 2950 0    50   Input ~ 0
+ROW1
+Text GLabel 1800 2650 0    50   Input ~ 0
+COL0
+Text GLabel 1800 2750 0    50   Input ~ 0
+COL1
+Text GLabel 3200 2250 2    50   Input ~ 0
+COL3
+Text GLabel 3200 2650 2    50   Input ~ 0
+ENC_A
+Text GLabel 3200 2550 2    50   Input ~ 0
+ENC_B
 $EndSCHEMATC
