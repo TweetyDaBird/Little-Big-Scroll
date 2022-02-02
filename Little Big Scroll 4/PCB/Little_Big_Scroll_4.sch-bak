@@ -76,7 +76,7 @@ F 1 "SW_Push" H 5050 1544 50  0000 C CNN
 F 2 "keyswitches:Kailh_socket_MX_RGB" H 5050 1550 50  0001 C CNN
 F 3 "~" H 5050 1550 50  0001 C CNN
 	1    5050 1350
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW2
@@ -87,7 +87,7 @@ F 1 "SW_Push" H 5600 1544 50  0000 C CNN
 F 2 "keyswitches:Kailh_socket_MX_RGB" H 5600 1550 50  0001 C CNN
 F 3 "~" H 5600 1550 50  0001 C CNN
 	1    5600 1350
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW3
@@ -98,7 +98,7 @@ F 1 "SW_Push" H 5050 2244 50  0000 C CNN
 F 2 "keyswitches:Kailh_socket_MX_RGB" H 5050 2250 50  0001 C CNN
 F 3 "~" H 5050 2250 50  0001 C CNN
 	1    5050 2050
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Switch:SW_Push SW4
@@ -109,7 +109,7 @@ F 1 "SW_Push" H 5600 2244 50  0000 C CNN
 F 2 "keyswitches:Kailh_socket_MX_RGB" H 5600 2250 50  0001 C CNN
 F 3 "~" H 5600 2250 50  0001 C CNN
 	1    5600 2050
-	1    0    0    -1  
+	-1   0    0    -1  
 $EndComp
 $Comp
 L Keyboard_Library:Rotary_Encoder_Switch_GND SW5

@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Little Big Scroll"
-Date "2021-11-30"
-Rev "v1.0"
+Title "Little Big Scroll 4"
+Date "2022-01-10"
+Rev "v1.1"
 Comp "Markus Knutsson <markus.knutsson@tweety.se>"
 Comment1 "https://github.com/TweetyDaBird"
 Comment2 "Licensed under Creative Commons Attribution-ShareAlike 4.0 International"
@@ -642,4 +642,15 @@ Text GLabel 3200 2650 2    50   Input ~ 0
 ENC_A
 Text GLabel 3200 2550 2    50   Input ~ 0
 ENC_B
+$Comp
+L Keyboard_Library:Hole H5
+U 1 1 61E6F18C
+P 12750 2150
+F 0 "H5" H 12936 2203 60  0000 L CNN
+F 1 "Hole" H 12936 2097 60  0000 L CNN
+F 2 "QMK Logo:Powered_by_QMK" H 12750 2150 60  0001 C CNN
+F 3 "" H 12750 2150 60  0001 C CNN
+	1    12750 2150
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

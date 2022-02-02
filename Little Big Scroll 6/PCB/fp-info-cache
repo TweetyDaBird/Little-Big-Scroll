@@ -1,4 +1,4 @@
-237262347589989
+209798341641019
 Keebio-Parts
 3_Pin_Jumper
 
@@ -203,34 +203,6 @@ Elite-C-ZigZag
 29
 29
 Keebio-Parts
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Keebio-Parts
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Keebio-Parts
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Keebio-Parts
 Epson_TSX-3225
 
 
@@ -336,13 +308,6 @@ Kailh-PG1350-1u-No-Clickhole
 4
 4
 Keebio-Parts
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-Keebio-Parts
 Kailh-PG1350-1u-reversible
 
 
@@ -377,20 +342,6 @@ Kailh-PG1350-2u
 0
 4
 4
-Keebio-Parts
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-Keebio-Parts
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
 Keebio-Parts
 LED_3mm
 
@@ -609,30 +560,9 @@ QFN 0.5
 60
 45
 Keebio-Parts
-RGB-6028
+RGBW_LED_5mm
 
 
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
 0
 4
 4
@@ -707,26 +637,12 @@ rotary encoder
 5
 5
 Keebio-Parts
-RotaryEncoder_EC11-Plate_Mount_Hole_Placeholder
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-0
-0
-Keebio-Parts
 RotaryEncoder_EC11-no-legs
 Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
 0
 5
 5
-Keebio-Parts
-SK6812-MINI-E
-
-
-0
-4
-4
 Keebio-Parts
 SM0805D
 
@@ -895,20 +811,6 @@ TRRS-PJ-320D
 0
 4
 4
-Keebio-Parts
-TRRS-PJ-605
-
-
-0
-6
-6
-Keebio-Parts
-TRRS-PJ-606
-
-
-0
-6
-6
 Keebio-Parts
 TRRS_Jack
 
