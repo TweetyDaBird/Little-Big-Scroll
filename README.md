@@ -16,12 +16,9 @@ Usable for Media control, macro buttons, or just about anything else you can ima
 - Cherry MX style keyswitches
 - Kaihl hot swap sockets
 - Clickable Rotary encoder with up to 40mm wheel
-- Optional Per Key RGB
-- Designed with a complete sandwich case for an easy build
+- Designed with a complete sandwich case for an easy build (If purchased, comes as a complete kit)
+- Optional Per Key RGB / Encoder Underglow
 - (LBS 4) Optional 0.91" 128x32 OLED screen
-
-
-
 
 ## Buildguide
 
