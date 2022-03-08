@@ -31,12 +31,15 @@ Usable for Media control, macro buttons, or just about anything else you can ima
 - Solder capacitors C1, C2 in markings
 - **LSB 4** If you are mounting the OLED, solder Resistors R1, R2 & OLED Screen in place
 - Solder Encoder
-- Solder controller, face up, flush with underside of PCB.
+- Solder controller, face up, flush with underside of PCB (This can be socketed, but that adds height, and you need longer spacers than the included ones)
 - Assemble plate/spacers around the PCB
 - **LSB 4** The unused plate forms the bottom, unless a solid backplate is added as an optional extra
 - Insert switches/caps (remember to support the sockets!) and add encoder wheel
 - Program
 - Enjoy!
+
+#### Note! 
+When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates, as several of these desings are longer than the original ProMicro footprint. This doesn't affect the functionality in any way, it's only a cosmetical issue.
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
