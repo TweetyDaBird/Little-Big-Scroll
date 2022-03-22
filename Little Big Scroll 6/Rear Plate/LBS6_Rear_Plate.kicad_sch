@@ -90,7 +90,7 @@
     (property "Value" "Hole_PCB_M2-Spacer" (id 1) (at 33.9344 190.5762 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.7mm" (id 2) (at 29.21 189.23 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 29.21 189.23 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 29.21 189.23 0)
@@ -107,7 +107,7 @@
     (property "Value" "Hole_PCB_M2-Spacer" (id 1) (at 33.9344 170.2562 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.7mm" (id 2) (at 29.21 168.91 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 29.21 168.91 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 29.21 168.91 0)
@@ -124,7 +124,7 @@
     (property "Value" "Hole_PCB_M2-Spacer" (id 1) (at 33.9344 160.0962 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.7mm" (id 2) (at 29.21 158.75 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 29.21 158.75 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 29.21 158.75 0)
@@ -141,7 +141,7 @@
     (property "Value" "Hole_PCB_M2-Spacer" (id 1) (at 33.9344 180.4162 0)
       (effects (font (size 1.524 1.524)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_3.7mm" (id 2) (at 29.21 179.07 0)
+    (property "Footprint" "MountingHole:MountingHole_2.5mm" (id 2) (at 29.21 179.07 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 29.21 179.07 0)
@@ -185,16 +185,16 @@
 
   (symbol_instances
     (path "/00000000-0000-0000-0000-000061f277e9"
-      (reference "H1") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_3.7mm")
+      (reference "H1") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-000061f26e99"
-      (reference "H2") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_3.7mm")
+      (reference "H2") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-000061f28116"
-      (reference "H3") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_3.7mm")
+      (reference "H3") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/00000000-0000-0000-0000-000061f26001"
-      (reference "H4") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_3.7mm")
+      (reference "H4") (unit 1) (value "Hole_PCB_M2-Spacer") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/0cbbf3d2-db89-46d7-9721-0bda6fb9d450"
       (reference "Lic1") (unit 1) (value "CC-BY-SA-4.0") (footprint "CC_Licensing:CC_BY_SA_40")
