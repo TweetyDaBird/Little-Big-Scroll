@@ -40,12 +40,12 @@ Usable for Media control, macro buttons, or just about anything else you can ima
 #### Note! 
 When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates around the USB port, as several of these desings are longer than the original ProMicro footprint. This doesn't affect the functionality in any way, it's only a cosmetical issue.
 
+
+
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
 
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
