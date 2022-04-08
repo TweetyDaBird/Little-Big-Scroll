@@ -42,14 +42,14 @@ A low-cost and easy to build macro pad intended for among other things media con
 - Solder capacitors C1, C2 in markings
 - **Optional:** Solder Resistors R1, R2 & OLED Screen
 - Solder Encoder
-- Solder controller, face up, flush with underside of PCB.
-- Prepare the front plate you're using by removing tabs and filing.
-- Assemble plate/spacers, unused plate forms the bottom.
+- Solder controller, face up, flush with underside of PCB
+- Prepare the front plate you're using by removing tabs and filing
+- Assemble plate/spacers, unused plate forms the bottom
 - Insert switches and add encoder wheel
-- Program the supplied VIAL-QMK .HEX file with QMK toolbox
-- Enjoy!
+- Program the supplied VIAL-QMK compatible .HEX file with QMK toolbox
+- Load up VIAL and enjoy!
 
-#### Note!
+### Note!
 When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates around the USB port, as several of these desings are longer than the original ProMicro footprint. 
 
 This doesn't affect the functionality in any way, it only affects the looks of your build, and since the design is originally intended to be as small and slimlined as possible, the choice of USB-C vs looks is one you will have to make on your own. (Revised versions could possibly adress this once I can establish how much it varies from type to type).
