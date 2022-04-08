@@ -49,7 +49,7 @@ A low-cost and easy to build macro pad intended for among other things media con
 - Program the supplied VIAL-QMK .HEX file with QMK toolbox
 - Enjoy!
 
-##Note!
+#### Note!
 When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates around the USB port, as several of these desings are longer than the original ProMicro footprint. 
 
 This doesn't affect the functionality in any way, it only affects the looks of your build, and since the design is originally intended to be as small and slimlined as possible, the choice of USB-C vs looks is one you will have to make on your own. (Revised versions could possibly adress this once I can establish how much it varies from type to type).
