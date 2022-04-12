@@ -20,28 +20,6 @@ Usable for Media control, macro buttons, or just about anything else you can ima
 - Optional Per Key RGB / Encoder Underglow
 - (LBS 4) Optional 0.91" 128x32 OLED screen
 
-## Buildguide
-
-### Step-by-step
-- Solder hotswap sockets in markings
-- Solder capacitors C1, C2 in markings
-- **LSB 4 only** - If you are mounting the OLED, solder Resistors R1, R2 & OLED Screen in place
-- Solder Encoder
-- Solder controller, face up, flush with underside of PCB (*)
-- Assemble plate/spacers around the PCB (**)
-- Insert switches/caps (remember to support the sockets!) and add encoder wheel
-- Program
-- Enjoy!
-
-(*) The controller can be socketed, but that adds height, and you need longer spacers than the ones included if purchasing a kit.
-
-(**) For LSB 4, the unused plate forms the bottom, unless a solid backplate is added as an optional extra. Breakaway tabs need to be removed and filed before use.
-
-#### Note! 
-When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates around the USB port, as several of these desings are longer than the original ProMicro footprint. This doesn't affect the functionality in any way, it's only a cosmetical issue.
-
-
-
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
