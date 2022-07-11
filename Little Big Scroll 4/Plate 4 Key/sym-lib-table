@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Little_Big_Scroll_4KEY-rescue")(type "Legacy")(uri "${KIPRJMOD}/Little_Big_Scroll_4KEY-rescue.lib")(options "")(descr ""))
+)
