@@ -37,16 +37,19 @@ Usable for Media control, macro buttons, or just about anything else you can ima
 
 (**) For LSB 4, the unused plate forms the bottom, unless a solid backplate is added as an optional extra. Breakaway tabs need to be removed and filed before use.
 
-#### Note! 
-When building LSB 4, using a ProMicro clone with USB C port, it is possible these stick out past the PCB/plates around the USB port, as several of these desings are longer than the original ProMicro footprint. This doesn't affect the functionality in any way, it's only a cosmetical issue.
+## Buy a kit!
+I sell complete kits, making it easy to build your keyboard, and it also supports prototypes for new wacky ones. 
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+<a href="https://lectronz.com/stores/tweetys-wild-thinking"><img alt="Buy it on Lectronz" src="https://lectronz.com/static/badges/buy-it-on-lectronz-small.png" /></a>
 
-This work is licensed under a
+## Discord for build help and discussions!
+
+<a href="https://discord.gg/G6QzcJQUnm"><img alt="Discuss on Discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png" width="219" height="60"/></a>
+
+## License
+
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa] - This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
 [cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
