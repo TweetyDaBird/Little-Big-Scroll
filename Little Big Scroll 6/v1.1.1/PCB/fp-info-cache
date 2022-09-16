@@ -1,4 +1,4 @@
-20775883769872412
+20464405745150099
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -314,104 +314,6 @@ battery CR-3032 coin cell vertical
 0
 2
 2
-BlackPill (WeAct v3)
-WeAct_BlackPill_3
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-BlackPill (WeAct v3)
-WeAct_BlackPill_3_reverse_mount
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-BlackPill (WeAct v3)
-YAAJ_WeAct_BlackPill_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-BlackPill (WeAct v3)
-YAAJ_WeAct_BlackPill_SWD_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
-Blackpill
-YAAJ_BlackPill_1
-BlackPill module with pin headers and sockets. No SWD breakout
-module BlackPill Black Pill header socket
-0
-34
-34
-Blackpill
-YAAJ_BlackPill_2
-BlackPill module with pin headers / sockets. No SWD breakout
-module BlackPill Black Pill header
-0
-34
-34
-Blackpill
-YAAJ_BlackPill_SWD_1
-BlackPill module with pin headers / sockets. SWD broken out to PCB.
-module BlackPill Black Pill header SWD breakout
-0
-38
-38
-Blackpill
-YAAJ_BlackPill_SWD_2
-BlackPill module with pin headers / sockets. SWD broken out to PCB.
-module BlackPill Black Pill header SWD breakout
-0
-38
-38
-Blackpill
-YAAJ_BluePill_1
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-Blackpill
-YAAJ_BluePill_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-Blackpill
-YAAJ_BluePill_SWD_1
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
-Blackpill
-YAAJ_BluePill_SWD_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
-Blackpill
-YAAJ_WeAct_BlackPill_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-Blackpill
-YAAJ_WeAct_BlackPill_SWD_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -1478,8 +1380,8 @@ Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/A
 2
 Button_Switch_SMD
 SW_SPST_EVQP2
-Light Touch Switch
-
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000C374.pdf
+SMD SMT SPST EVQP2
 0
 4
 2
@@ -2348,6 +2250,13 @@ Buzzer_Beeper
 Buzzer_Mallory_AST1109MLTRQ
 Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
 buzzer piezo
+0
+2
+2
+Buzzer_Beeper
+Buzzer_Mallory_AST1240MLQ
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST12140MLQ.pdf
+piezo buzzer
 0
 2
 2
@@ -3879,8 +3788,8 @@ CP Radial series Radial pin pitch 7.50mm  diameter 18mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D22.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=22mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=22mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 22mm height 40mm Electrolytic Capacitor
 0
 3
 2
@@ -3893,8 +3802,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 22mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D24.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=24mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=24mm, height=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 24mm height 40mm Electrolytic Capacitor
 0
 3
 2
@@ -3907,8 +3816,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 24mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D25.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=25mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=25mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 25mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3921,8 +3830,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 25mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D26.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=26mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=26mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 26mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3935,8 +3844,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 26mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D30.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=30mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=30mm, height=45mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 30mm height 45mm Electrolytic Capacitor
 0
 3
 2
@@ -3949,8 +3858,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 30mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D35.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=35mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=35mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 35mm height 50mm Electrolytic Capacitor
 0
 3
 2
@@ -3963,8 +3872,8 @@ CP Radial series Radial pin pitch 10.00mm  diameter 35mm Electrolytic Capacitor
 2
 Capacitor_THT
 CP_Radial_D40.0mm_P10.00mm_3pin_SnapIn
-CP, Radial series, Radial, pin pitch=10.00mm, , diameter=40mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
-CP Radial series Radial pin pitch 10.00mm  diameter 40mm Electrolytic Capacitor
+CP, Radial series, Radial, pin pitch=10.00mm, diameter=40mm, height=50mm, Electrolytic Capacitor, , http://www.vishay.com/docs/28342/058059pll-si.pdf
+CP Radial series Radial pin pitch 10.00mm diameter 40mm height 50mm Electrolytic Capacitor
 0
 3
 2
@@ -6334,62 +6243,6 @@ capacitor tantalum
 0
 2
 2
-Common Library
-Jumper_Mini
-
-
-0
-2
-2
-Common Library
-Korean Hroparts Elec K2-1107ST-A3DW-06
-3x6x2.5mm tactile switch
-SPST button tactile switch
-0
-4
-3
-Common Library
-LED_LiteOn_LTST-S326
-http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
-LED SMD right angle  CCA
-0
-3
-3
-Common Library
-MJ-4PP-9_alim
-
-
-0
-8
-4
-Common Library
-ProMicro
-
-
-0
-24
-24
-Common Library
-SOP127P600X175-9N
-
-
-0
-9
-9
-Common Library
-TP4056-18650
-
-
-0
-6
-6
-Common Library
-special conn
-
-
-0
-104
-49
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -6635,6 +6488,27 @@ Jack_3.5mm_CUI_SJ-3524-SMT_Horizontal
 0
 4
 4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3523N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+3
+3
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3524N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+4
+4
+Connector_Audio
+Jack_3.5mm_CUI_SJ1-3525N_Horizontal
+TRS 3.5mm, horizontal, through-hole, https://www.cuidevices.com/product/resource/pdf/sj1-352xn.pdf
+TRS audio jack stereo horizontal
+0
+5
+5
 Connector_Audio
 Jack_3.5mm_CUI_SJ1-3533NG_Horizontal
 TRS 3.5mm, horizontal, through-hole, https://www.cui.com/product/resource/sj1-353xng.pdf
@@ -8126,6 +8000,13 @@ connector cf
 0
 54
 50
+Connector_Card
+SD_Hirose_DM1AA_SF_PEJ82
+SD, SMD, top-mount, push-push (https://www.hirose.com/product/document?clcode=CL0609-0004-8-82&productname=DM1AA-SF-PEJ(82)&series=DM1&documenttype=2DDrawing&lang=en&documentid=0000915301)
+SD card connector
+0
+16
+13
 Connector_Card
 SD_Kyocera_145638009211859+
 SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
@@ -11035,6 +10916,13 @@ Connector_HDMI
 HDMI_A_Kycon_KDMIX-SL1-NS-WS-B15_VerticalRightAngle
 HDMI, Type A, Kycon KDMIX-SL1-NS-WS-B15, Vertical Right Angle, http://www.kycon.com/Pub_Eng_Draw/KDMIX-SL1-NS-WS-B15.pdf
 hdmi type a
+0
+23
+20
+Connector_HDMI
+HDMI_A_Molex_208658-1001_Horizontal
+HDMI Molex Type A https://www.molex.com/pdm_docs/sd/2086581001_sd.pdf
+HDMI Molex Type A
 0
 23
 20
@@ -42161,6 +42049,13 @@ AJP92A8813 8P8C RJ45 ethernet plug
 8
 8
 Connector_RJ
+RJ45_Pulse_JK00177NL_Horizontal
+10/100/1000 Base-T RJ45 single port with LEDs and 75W POE, https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/J432/doc_part/J432.pdf
+RJ45 8p8c ethernet POE
+0
+22
+21
+Connector_RJ
 RJ45_Pulse_JK0654219NL_Horizontal
 10/100/1000 Base-T RJ45 single port with LEDs https://media.digikey.com/pdf/Data%20Sheets/Pulse%20PDFs/JK%20Series.pdf#page=2
 RJ45 8p8c ethernet
@@ -42246,10 +42141,10 @@ FMC HPC
 400
 Connector_Samtec
 Samtec_FMC_ASP-134604-01_4x40_Vertical
-http://www.samtec.com/standards/vita.aspx
+https://suddendocs.samtec.com/prints/asp-134604-01-mkt.pdf
 FMC LPC VITA 
 0
-162
+160
 160
 Connector_Samtec
 Samtec_LSHM-105-xx.x-x-DV-N_2x05_P0.50mm_Vertical
@@ -45836,6 +45731,13 @@ usb A plug horizontal
 11
 10
 Connector_USB
+USB3_Micro-B_Connfly_DS1104-01
+Micro USB B receptable with flange, bottom-mount, SMD, right-angle (http://en.connfly.com/static/upload/file/pdf/DS1104-01.pdf)
+USB 3.0 Micro B SMD right angle
+0
+16
+11
+Connector_USB
 USB_A_CNCTech_1001-011-01101_Horizontal
 USB type A Plug, Horizontal, http://cnctech.us/pdfs/1001-011-01101.pdf
 USB-A
@@ -45968,6 +45870,13 @@ USB Type-C Receptacle Through-hole Right angle
 0
 20
 17
+Connector_USB
+USB_C_Receptacle_GCT_USB4115-03-C
+USB TYPE C, VERT RCPT PCB, SMT, https://gct.co/files/drawings/usb4115.pdf
+USB C Type-C Receptacle SMD
+0
+28
+25
 Connector_USB
 USB_C_Receptacle_HRO_TYPE-C-31-M-12
 USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
@@ -52394,62 +52303,6 @@ emi filter
 0
 5
 5
-Footprints
-YAAJ_BlackPill_1
-BlackPill module with pin headers and sockets. No SWD breakout
-module BlackPill Black Pill header socket
-0
-34
-34
-Footprints
-YAAJ_BlackPill_2
-BlackPill module with pin headers / sockets. No SWD breakout
-module BlackPill Black Pill header
-0
-34
-34
-Footprints
-YAAJ_BlackPill_SWD_1
-BlackPill module with pin headers / sockets. SWD broken out to PCB.
-module BlackPill Black Pill header SWD breakout
-0
-38
-38
-Footprints
-YAAJ_BlackPill_SWD_2
-BlackPill module with pin headers / sockets. SWD broken out to PCB.
-module BlackPill Black Pill header SWD breakout
-0
-38
-38
-Footprints
-YAAJ_BluePill_1
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-Footprints
-YAAJ_BluePill_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-40
-40
-Footprints
-YAAJ_BluePill_SWD_1
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
-Footprints
-YAAJ_BluePill_SWD_2
-Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
-module BlluePill Blue Pill header SWD breakout
-0
-44
-44
 Fuse
 Fuse_0402_1005Metric
 Fuse SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
@@ -55559,6 +55412,20 @@ L_CommonMode_Toroid Vertical series Radial pin pitch 17.78*30.48mm^2  length 43.
 4
 4
 Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X140
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X140.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
+L_CommonMode_VAC_T60405-S6123-X240
+3 Phase, CM Choke, https://vacuumschmelze.com/03_Documents/Datasheets%20-%20Drawings/Commom-Mode-Chokes/6123-X240.pdf
+common mode filter
+0
+6
+6
+Inductor_THT
 L_CommonMode_Wuerth_WE-CMB-L
 Wuerth, WE-CMB, Bauform L,
 CommonModeChoke Gleichtaktdrossel 
@@ -56713,2071 +56580,314 @@ solder jumper open
 0
 5
 3
-Keebio-Parts
-3_Pin_Jumper
-
-
-0
-9
-3
-Keebio-Parts
-4pin35mmAudio
-
-
-0
-6
-6
-Keebio-Parts
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-Keebio-Parts
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-Keebio-Parts
-ATMEGA32U4-AU
-
-
-0
-44
-44
-Keebio-Parts
-ArduinoProMicro
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-Keebio-Parts
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-Keebio-Parts
-CUI_SJ-43614-SMT
-
-
-0
-4
-4
-Keebio-Parts
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
-2
-2
-Keebio-Parts
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-Keebio-Parts
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keebio-Parts
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keebio-Parts
-D_0805
-
-
-0
-2
-2
-Keebio-Parts
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Keebio-Parts
-D_SOD123
-
-
-0
-2
-2
-Keebio-Parts
-D_SOD123F
-
-
-0
-2
-2
-Keebio-Parts
-Diode
-
-
-0
-2
-2
-Keebio-Parts
-Diode-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts
-Diode-dual
-
-
-0
-10
-2
-Keebio-Parts
-Diode-hybrid-3pad
-
-
-0
-6
-2
-Keebio-Parts
-Diode_Long
-
-
-0
-2
-2
-Keebio-Parts
-Elite-C
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-ZigZag
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Keebio-Parts
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Keebio-Parts
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Keebio-Parts
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Keebio-Parts
-Epson_TSX-3225
-
-
-0
-4
-4
-Keebio-Parts
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts
-HRO-TYPE-C-31-M-12-Assembly
+Keyboard Common
+HRO_TYPE-C-31-M-12
 
 
 0
 16
-13
-Keebio-Parts
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Keebio-Parts
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Keebio-Parts
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-Keebio-Parts
-KLJ-1102
-
-
-0
-2
-2
-Keebio-Parts
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-Keebio-Parts
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-Keebio-Parts
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-Keebio-Parts
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-Keebio-Parts
-Kailh-PG1350-2.5u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-2u
-
-
-0
-4
-4
-Keebio-Parts
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-Keebio-Parts
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
-Keebio-Parts
-LED_3mm
-
-
-0
-2
-2
-Keebio-Parts
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-Keebio-Parts
-MD_Diode
-
-
-0
-2
-2
-Keebio-Parts
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-Keebio-Parts
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-Keebio-Parts
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-Keebio-Parts
-MX-Alps_DMask
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_FMask
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-Keebio-Parts
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-Keebio-Parts
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-Keebio-Parts
-MX-Quad
-MX/Alps footprint
-
-0
-8
-2
-Keebio-Parts
-MX_FMask
-
-
-0
-2
-1
-Keebio-Parts
-MX_FMask-2u
-
-
-0
-3
-1
-Keebio-Parts
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX_FMask-with-cutout
-
-
-0
-2
-1
-Keebio-Parts
-MX_LED
-
-
-0
-2
-2
-Keebio-Parts
-MX_Stabilizer_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-MX_Stabilizer_Cutout-2u
-
-
-0
-0
-0
-Keebio-Parts
-MX_Switch_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-Keebio-Parts
-Mini-USB
-
-
-0
-7
-6
-Keebio-Parts
-MountingHole
-
-
-0
-1
-0
-Keebio-Parts
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-Keebio-Parts
-RGB-6028
-
-
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Keebio-Parts
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
-2
-2
-Keebio-Parts
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Keebio-Parts
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Keebio-Parts
-Resistor
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Compact
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Compact-1-side
-
-
-0
-2
-2
-Keebio-Parts
-Resistor-Hybrid
-
-
-0
-10
-2
-Keebio-Parts
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-Keebio-Parts
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Keebio-Parts
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts
-RotaryEncoder_EC11-Plate_Mount_Hole_Placeholder
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-0
-0
-Keebio-Parts
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keebio-Parts
-SK6812-MINI-E
-
-
-0
-4
-4
-Keebio-Parts
-SM0805D
-
-
-0
-2
-2
-Keebio-Parts
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-Keebio-Parts
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Keebio-Parts
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-Keebio-Parts
-SOT-143B
-SOT143B
-
-0
-4
-4
-Keebio-Parts
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-Keebio-Parts
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Keebio-Parts
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Keebio-Parts
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-Keebio-Parts
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-Keebio-Parts
-SinglePad
-
-
-0
-1
-1
-Keebio-Parts
-SolderJumper
-
-
-0
-4
-3
-Keebio-Parts
-SolderJumperLeft
-
-
-0
-3
-3
-Keebio-Parts
-SolderJumperPair
-
-
-0
-6
-3
-Keebio-Parts
-SolderJumperRight
-
-
-0
-3
-3
-Keebio-Parts
-SolderJumperSet
-
-
-0
-12
-6
-Keebio-Parts
-SolderJumperSets
-
-
-0
-6
-2
-Keebio-Parts
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-Keebio-Parts
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Keebio-Parts
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Keebio-Parts
-TRRS-PJ-320A
-
-
-0
-4
-4
-Keebio-Parts
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-Keebio-Parts
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-Keebio-Parts
-TRRS-PJ-320D
-
-
-0
-4
-4
-Keebio-Parts
-TRRS-PJ-605
-
-
-0
-6
-6
-Keebio-Parts
-TRRS-PJ-606
-
-
-0
-6
-6
-Keebio-Parts
-TRRS_Jack
-
-
-0
-6
-6
-Keebio-Parts
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-Keebio-Parts
-TRRS_Jumper
-
-
-0
-6
-6
-Keebio-Parts
-Teensy_2.0
-
-
-0
-31
-31
-Keebio-Parts
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-Keebio-Parts
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-Keebio-Parts
-USB-C-12-Pin-MidMount
-
-
-0
 16
-13
-Keebio-Parts
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-Keebio-Parts
-USB-Mini-B_2leg
-
-
-0
-7
-6
-Keebio-Parts
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Keebio-Parts
-VIA-0.6mm
-
-
-0
-1
-1
-Keebio-Parts
-WS2812B
-
-
-0
-4
-4
-Keebio-Parts
-breakaway-hole
-
-
-0
-0
-0
-Keebio-Parts
-breakaway-hole-big
-
-
-0
-0
-0
-Keebio-Parts
-breakaway-mousebites
-
-
-0
-0
-0
-Keebio-Parts
-solder_jumper
-
-
-0
-2
-2
-Keyboard Layout
-Cherry MX 1.5u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 1.25u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 1.75u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 1u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 2.25u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 2.75u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX 2u
-
-
-0
-0
-0
-Keyboard Layout
-Cherry MX Enter ISO
-
-
-0
-0
-0
-Keyboard Library
-2-pin_reset_switch
-SKHLAAA010-1
-Switch
-0
-2
-2
-Keyboard Library
-APTF1616SEEZGQBDC
-APTF1616SEEZGQBDC
-Integrated Circuit
-0
-4
-4
-Keyboard Library
-ArduinoProMicro
-
-
-0
-24
-24
-Keyboard Library
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Keyboard Library
-BAT_BK-888
-
-
-0
-3
-2
-Keyboard Library
-BatteryHolder_Keystone_3034_1x20mm
-Keystone 3034 SMD battery holder for 2020, 2025 and 2032 coincell batteries. http://www.keyelco.com/product-pdf.cfm?p=798
-Keystone type 3034 coin cell retainer
-0
-3
-2
-Keyboard Library
-BatteryHolder_Seiko_MS621F
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.0u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.5u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.5u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.25u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.75u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_1.75u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.0u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.0u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.25u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.75u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_2.75u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_6.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_H2.0u_Reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_ISO_Enter
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-Cherry_MX_Kaihl_HS_Stepped_Caps
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-Keyboard Library
-Cherry_MX_Plate_3x1u_2x1.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_ANSI_ISO_ENTER
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_ANSI_ISO_LSHIFT
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_ANSI_ISO_RSHIFT
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Backspace_Del
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Breakoff
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Placeholder
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Placeholder_1.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Placeholder_1u+1.25u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Placeholder_holee
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Hole_Placeholder_holee_2_in_1
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Placeholder
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_SPLIT_SPACE_1u+2u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Split_Backspace
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Split_Space
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Plate_Split_Space_2.25u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_PCB_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_PCB_2u_2x1u_placeholder
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_PCB_2u_placeholder
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_PCB_6.25u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_Plate_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Cherry_MX_Stabilizer_Plate_6.25u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Chrystal_Handsolder
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-Keyboard Library
-Core51822(B)
-
-
-0
-36
-36
-Keyboard Library
-Core51822(B)_y14015
-
-
-0
-36
-36
-Keyboard Library
-Diode_DO35_SOD123
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Keyboard Library
-E73-2G4M08S1C-52840
-
-
-0
-43
-43
-Keyboard Library
-E73-2G4M08S1C-nRF52840
-
-
-0
-43
-43
-Keyboard Library
-EVPBB2A9B000
-EVPBB2A9B000
-Switch
-0
-4
-4
-Keyboard Library
-EdgeHeader_1x01_P2.00mm
-Through hole straight pin header, 1x01, 2.00mm pitch, single row
-Through hole pin header THT 1x01 2.00mm single row
-0
-1
-1
-Keyboard Library
-EdgeHeader_1x03_P2.00mm
-Through hole straight pin header, 1x03, 2.00mm pitch, single row
-Through hole pin header THT 1x03 2.00mm single row
-0
-3
-3
-Keyboard Library
-EdgeHeader_1x04_P2.00mm
-Through hole straight pin header, 1x04, 2.00mm pitch, single row
-Through hole pin header THT 1x04 2.00mm single row
-0
-4
-4
-Keyboard Library
-EdgeHeader_1x04_P2.54mm
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-Keyboard Library
-EdgeHeader_1x05_P2.00mm
-Through hole straight pin header, 1x05, 2.00mm pitch, single row
-Through hole pin header THT 1x05 2.00mm single row
-0
-5
-5
-Keyboard Library
-EdgeHeader_1x05_P2.54mm
-Through hole straight pin header, 1x05, 2.54mm pitch, single row
-Through hole pin header THT 1x05 2.54mm single row
-0
-5
-5
-Keyboard Library
-Gazelle-PM
-
-
-0
-27
-27
-Keyboard Library
-Gazelle-PM-Reversible
-
-
-0
-52
-27
-Keyboard Library
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-20
-17
-Keyboard Library
-HRO-TYPE-C-31-M-12-reversible
-
-
-0
-28
-15
-Keyboard Library
-HRO-TYPE-C-31-M-14
-
-
-0
-20
-17
-Keyboard Library
-HRS_CX70M-24P1
-
-
-0
-30
-30
-Keyboard Library
-HolyIOT-18010-nRF52840
-
-
-0
-55
-55
-Keyboard Library
-Inner_slot
-
-
-0
-0
-0
-Keyboard Library
-JST_SM04B-SRSS
-
-
-0
-6
-6
-Keyboard Library
+Keyboard Common
 Jumper_Mini
 
 
 0
 2
 2
-Keyboard Library
-KSS321GLFS
-
-
+Keyboard Common
+Korean Hroparts Elec K2-1107ST-A3DW-06
+3x6x2.5mm tactile switch
+SPST button tactile switch
 0
-2
-2
-Keyboard Library
-Kaihl_HS_1.0u
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-Keyboard Library
-LEDSC160X160X070-4N_reversible
-
-
-0
-8
 4
-Keyboard Library
-LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm
-https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf
-LED RGB NeoPixel Mini
+3
+Keyboard Common
+LED_LiteOn_LTST-S326
+http://optoelectronics.liteon.com/upload/download/DS22-2000-287/LTST-S326KGJRKT.PDF
+LED SMD right angle  CCA
 0
-8
-4
-Keyboard Library
-Lipo_battery_1S_130mAh
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-0
-0
-Keyboard Library
-Lipo_battery_302030_1S_150mAh
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-0
-0
-Keyboard Library
-Lipo_battery_501528_1S_150mAh
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-0
-0
-Keyboard Library
-Lipo_battery_502535_1S_400mAh
-Seiko MS621F, https://www.sii.co.jp/en/me/files/2014/02/file_EXTENDED_PRDCT_SPEC_75_FILE_11.jpg
-Seiko MS621F
-0
-0
-0
-Keyboard Library
+3
+3
+Keyboard Common
 MJ-4PP-9_alim
 
 
 0
 8
 4
-Keyboard Library
+Keyboard Common
 MSK12C02
 MSK12C02-1
 Switch
 0
 7
 4
-Keyboard Library
-MountingHole_2.1mm
-Mounting Hole 2.1mm, no annular
-mounting hole 2.1mm no annular
-0
-0
-0
-Keyboard Library
-NX2520SA
-NX2520SA
-Crystal or Oscillator
-0
-4
-4
-Keyboard Library
-OSCSC320X250X100N
+Keyboard Common
+ProMicro
 
 
 0
-4
-4
-Keyboard Library
-Panasonic-EVP-AKE31A-MFG
-
-
-0
-17
-5
-Keyboard Library
-Panasonic-EVP-AKE31A-MFG_reversible
-
-
-0
-12
-5
-Keyboard Library
-Panel_Single_mousebite
-
-
-0
-0
-0
-Keyboard Library
-Panel_Single_mousebite_skinny
-
-
-0
-0
-0
-Keyboard Library
-Panel_break4mm
-
-
-0
-0
-0
-Keyboard Library
-Panel_double_mousebite
-
-
-0
-0
-0
-Keyboard Library
-Panel_dual_mousebite
-
-
-0
-0
-0
-Keyboard Library
-PinHeader_1x04_P2.54mm_Vertical
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-Keyboard Library
-PinHeader_1x05_P2.54mm_Vertical
-Through hole straight pin header, 1x05, 2.54mm pitch, single row
-Through hole pin header THT 1x05 2.54mm single row
-0
-5
-5
-Keyboard Library
-PinHeader_2x03_P1.27mm_Vertical
-Through hole straight pin header, 2x03, 1.27mm pitch, double rows
-Through hole pin header THT 2x03 1.27mm double row
-0
-6
-6
-Keyboard Library
-ProMicro_Reversible
-
-
-0
-48
 24
-Keyboard Library
-ProPill
+24
+Keyboard Common
+SOP127P600X175-9N
 
 
-0
-33
-33
-Keyboard Library
-RESISTOR_Reversible
-Resitance 3 pas
-R
-0
-2
-2
-Keyboard Library
-RotaryEncoder_Alps_EC11E-Switch_Special
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-7
-Keyboard Library
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20_special
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-7
-Keyboard Library
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-7
-Keyboard Library
-RotaryEncoder_EC11-Plate_Mount_Hole_Placeholder
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-0
-0
-Keyboard Library
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Keyboard Library
-RotaryEncoder_PlateHole_Breakoff
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-0
-0
-Keyboard Library
-RotaryEncoder_PlateHole_Placeholder
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-0
-0
-Keyboard Library
-SK6812MINI_Midmount
-
-
-0
-4
-4
-Keyboard Library
-SK6812MINI_Midmount_Reversible_v2
-
-
-0
-8
-4
-Keyboard Library
-SMT_JLCPCB_HOLES
-
-
-0
-0
-0
-Keyboard Library
-SOIC127P600X175-9N
-8ESOP
-Integrated Circuit
 0
 9
 9
-Keyboard Library
-SW_SPST_CK_RS282G05A3
-https://www.mouser.com/ds/2/60/RS-282G05A-SM_RT-1159762.pdf
-SPST button tactile switch
-0
-4
-3
-Keyboard Library
-Slot
-
-
+Keyboard Common
+Spacer PCB hole
+Mounting Hole 3.7mm, no annular
+mounting hole 3.7mm no annular
 0
 0
 0
-Keyboard Library
-SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Keyboard Library
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
-0
-3
-3
-Keyboard Library
-SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Keyboard Library
-SolderJumper-3_mini
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Keyboard Library
-Stabilizer_MX_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Stabilizer_MX_3u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-Stabilizer_MX_6.25u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-Keyboard Library
-T4056 1A Charge
+Keyboard Common
+TP4056-18650
 
 
 0
 6
 6
-Keyboard Library
-TRRS-PJ-320A
+Keyboard Controllers
+ArduinoProMicro-BackSide
 
 
+0
+24
+24
+Keyboard Controllers
+WeAct_BlackPill_3
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+Keyboard Controllers
+WeAct_BlackPill_3_reverse_mount
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+40
+40
+Keyboard Controllers
+XCVR_HOLYIOT-18010-NRF52840
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010_HS_all
+
+
+0
+55
+55
+Keyboard Controllers
+nRF52840_holyiot_18010_HS_simple
+
+
+0
+37
+37
+Keyboard Encoders
+Encoder_Alps_EC11E_Offset_pad
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Alps_EC11E_STD
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Alps_EC11E_Small
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+7
+Keyboard Encoders
+Encoder_Plate_Placeholder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Keyboard Encoders
+Plate_Placeholder
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+0
+0
+Keyboard RGB
+MINI_E_placeholder
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
+0
+0
+0
+Keyboard RGB
+RGB_SK6812MINI-E
+Add-on for regular MX-footprints with SK6812 MINI-E
+cherry MX SK6812 Mini-E rearmount rear mount led rgb backlight
 0
 4
 4
-Keyboard Library
-TRRS-PJ-320A-reversible
-
-
-0
-8
-4
-Keyboard Library
-TS-A002
-
-
-0
-4
-3
-Keyboard Library
-Unified-Daughterboard
-
-
-0
-4
-1
-Keyboard Library
-Waveshare_1.02_epaper
-
-
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_2.00u
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
 0
 0
 0
-Keyboard Library
-XRCGB16M000FXN1R0
-XRCGB16M000FXN1R0-2
-Crystal or Oscillator
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_3.00u
+Cherry MX PCB Stabilizer 3.00u
+Cherry MX Keyboard Stabilizer 3.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_6.00u
+Cherry MX PCB Stabilizer 6.00u
+Cherry MX Keyboard Stabilizer 6.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_6.25u
+Cherry MX PCB Stabilizer 6.25u
+Cherry MX Keyboard Stabilizer 6.25u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_7.00u
+Cherry MX PCB Stabilizer 7.00u
+Cherry MX Keyboard Stabilizer 7.00u Cutout
+0
+0
+0
+Keyboard Stabilizer
+Stabilizer_Cherry_MX_8.00u
+Cherry MX PCB Stabilizer 8.00u 9.00u 10.00u
+Cherry MX Keyboard Stabilizer 8.00u 9.00u 10.00u Cutout
+0
+0
+0
+Keyboard Switches
+SW_MX_HotSwap
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.5u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.25u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.75u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_1.75u_caps
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2.25u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2.75u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_2u
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_ISO_Enter
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+Keyboard Switches
+SW_MX_HotSwap_Reversible
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 4
 2
-Keyboard Library
-ke
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
+Keyboard Switches
+SW_MX_Solder
+MX-style keyswitch
+MX,cherry,gateron,kailh
+0
+2
+2
+Keyboard Switches
+SW_MX_Solder_Reversible
+MX-style keyswitch, reversible
+MX,cherry,gateron,kailh
 0
 4
-4
-Keyboard Library
-magnet
-
-
+2
+Keyboard_Plate
+SW_MX_Plate_Placeholder
+MX-style keyswitch with reversible Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
 0
 0
 0
-Keyboard Library
-magnet_7x4_2mm
-
-
+Keyboard_Plate
+Spacer Plate hole
+Mounting Hole 2.5mm, no annular
+mounting hole 2.5mm no annular
 0
 0
 0
-Keyboard Library
-magnet_8x3_3mm
-
-
-0
-0
-0
-Keyboard Library
-mouse-bite-2mm-slot
-
-
-0
-0
-0
-Keyboard Library
-mousebite
-
-
-0
-0
-0
-Keyboard Library
-mousebite4
-
-
-0
-0
-0
-Keyboard Library
-mousebite5
-
-
-0
-0
-0
-Keyboard Library
-mousebite8
-
-
-0
-0
-0
-Keyboard Library
-mousebite10
-
-
-0
-0
-0
-Keyboard Library
-nRF51822-04AT
-
-
-0
-13
-13
-Keyboard Library
-qmk-badge
-
-
-0
-0
-0
-Keyboard Library
-roundhole
-
-
-0
-1
-1
-Keyboard Library
-trackball
-Through hole straight pin header, 1x05, 2.54mm pitch, single row
-Through hole pin header THT 1x05 2.54mm single row
-0
-5
-5
-Keyboard Library
-unWired_footprint
-
-
-0
-28
-28
-Keyboard Library
-unWired_v2
-
-
-0
-34
-34
-Keyboard Library
-unWired_v2_footprint
-
-
-0
-27
-27
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -59090,6 +57200,20 @@ LED_SMD
 LED_Kingbright_APFA3010_3x1.5mm_Horizontal
 LED RGB, APFA3010, http://www.kingbrightusa.com/images/catalog/SPEC/APFA3010LSEEZGKQBKC.pdf
 LED RGB APFA3010 KINGBRIGHT 3x1.5mm
+0
+4
+4
+LED_SMD
+LED_Kingbright_APHBM2012_2x1.25mm
+Dual LED SMD https://www.kingbrightusa.com/KCpack.asp?txtPack=APHBM2012
+LED Kingbright APHM2012
+0
+4
+4
+LED_SMD
+LED_Kingbright_KPBD-3224
+Kingbright, dual LED, red-green, dome lens, 3.2 x 2.4 mm Surface Mount LED Lamp (https://www.kingbright.com/attachments/file/psearch/000/00/00/KPBD-3224SURKCGKC(Ver.20A).pdf)
+Kingbright dual LED KPBD-3224
 0
 4
 4
@@ -63833,6 +61957,20 @@ Analog Devices (Linear Tech), 133-pin BGA uModule, 15.0x15.0x4.92mm, https://www
 134
 134
 Package_BGA
+MAPBGA_9x9mm_Layout17x17_P0.5mm
+MAPBGA 9x9x1.11 PKG, 9.0x9.0mm, 272 Ball, 17x17 Layout, 0.5mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00869D.pdf#page=1
+BGA 272 0.5
+0
+272
+272
+Package_BGA
+MAPBGA_14x14mm_Layout17x17_P0.8mm
+MAPBGA 14x14x1.18 PKG, 14.0x14.0mm, 289 Ball, 17x17 Layout, 0.8mm Pitch, https://www.nxp.com/docs/en/package-information/98ASA00855D.pdf#page=1
+BGA 289 0.8
+0
+289
+289
+Package_BGA
 Maxim_WLP-9_1.595x1.415_Layout3x3_P0.4mm_Ball0.27mm_Pad0.25mm_NSMD
 Maxim_WLP-9 W91C1+1 https://pdfserv.maximintegrated.com/package_dwgs/21-0459.PDF
 Maxim_WLP-9
@@ -63853,6 +61991,48 @@ BGA 196 0.75
 0
 196
 196
+Package_BGA
+Micron_FBGA-78_7.5x10.6mm_Layout9x13_P0.8mm
+FBGA-78, 10.6x7.5mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=24
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_8x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x8.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=25
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-78_9x10.5mm_Layout9x13_P0.8mm
+FBGA-78, 10.5x9.0mm, 78 Ball, 9x13 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=23
+BGA 78 0.8
+0
+78
+78
+Package_BGA
+Micron_FBGA-96_7.5x13.5mm_Layout9x16_P0.8mm
+FBGA-96, 13.5x7.5mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=27
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_8x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x8.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=28
+BGA 96 0.8
+0
+96
+96
+Package_BGA
+Micron_FBGA-96_9x14mm_Layout9x16_P0.8mm
+FBGA-96, 14.0x9.0mm, 96 Ball, 9x16 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_ddr3l.pdf#page=26
+BGA 96 0.8
+0
+96
+96
 Package_BGA
 ST_uTFBGA-36_3.6x3.6mm_Layout6x6_P0.5mm
 ST uTFBGA-36, 0.25mm pad, 3.6x3.6mm, 36 Ball, 6x6 Layout, 0.5mm Pitch, https://www.st.com/resource/en/datasheet/stulpi01a.pdf
@@ -64764,6 +62944,13 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+CSP 35 0.4
+0
+35
+35
+Package_CSP
 ST_WLCSP-25_Die425
 WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf
 BGA 25 0.4
@@ -65051,6 +63238,13 @@ CSP 4 0.5
 4
 4
 Package_CSP
+WLCSP-4_0.64x0.64mm_P0.35mm
+WLCSP-4, 0.64x0.64mm, 4 Ball, 2x2 Layout, 0.35mm Pitch, https://www.onsemi.com/pdf/datasheet/ncp163-d.pdf#page=23
+CSP 4 0.35
+0
+4
+4
+Package_CSP
 WLCSP-6_1.4x1.0mm_P0.4mm
 6pin Pitch 0.4mm
 6pin Pitch 0.4mm WLCSP
@@ -65193,6 +63387,13 @@ QFN 0.5
 Package_DFN_QFN
 DFN-6-1EP_1.2x1.2mm_P0.4mm_EP0.3x0.94mm_PullBack
 DFN, 6 Pin (http://www.onsemi.com/pub/Collateral/NCP133-D.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+9
+7
+Package_DFN_QFN
+DFN-6-1EP_2x1.6mm_P0.5mm_EP1.15x1.3mm
+DFN, 6 Pin (https://www.onsemi.com/pdf/datasheet/ncp349-d.pdf#page=12), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
 0
 9
@@ -65436,6 +63637,20 @@ DFN 0.5
 8
 8
 Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+15
+11
+Package_DFN_QFN
+DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.3x2.2mm_ThermalVias
+DFN, 10 Pin (https://www.nxp.com/docs/en/data-sheet/PCF85063A.pdf#page=48), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+22
+11
+Package_DFN_QFN
 DFN-10-1EP_2x3mm_P0.5mm_EP0.64x2.4mm
 DDB Package; 10-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_10_05-08-1722.pdf)
 DFN 0.5
@@ -65490,6 +63705,20 @@ DDB Package; 12-Lead Plastic DFN (3mm x 2mm) (see Linear Technology DFN_12_05-08
 DFN 0.45
 0
 15
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm
+DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+17
+13
+Package_DFN_QFN
+DFN-12-1EP_3x3mm_P0.5mm_EP1.6x2.5mm_ThermalVias
+DFN, 12 Pin (https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2207-2MHz-3A-PWM-Buck-Regulator-DS20006470A.pdf#page=22), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN NoLead
+0
+24
 13
 Package_DFN_QFN
 DFN-12-1EP_3x3mm_P0.5mm_EP2.05x2.86mm
@@ -66577,6 +64806,20 @@ QFN NoLead
 55
 29
 Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+38
+29
+Package_DFN_QFN
+QFN-28-1EP_5x5mm_P0.5mm_EP3.75x3.75mm_ThermalVias
+QFN, 28 Pin (https://www.cmlmicro.com/wp-content/uploads/2017/10/CMX901_ds.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+91
+29
+Package_DFN_QFN
 QFN-28-1EP_5x6mm_P0.5mm_EP3.65x4.65mm
 QFN, 28 Pin (http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081932_0_UHE28.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -67130,6 +65373,20 @@ QFN NoLead
 104
 53
 Package_DFN_QFN
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+61
+57
+Package_DFN_QFN
+QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm_ThermalVias
+QFN, 56 Pin (https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf#page=634), generated with kicad-footprint-generator ipc_noLead_generator.py
+QFN NoLead
+0
+66
+57
+Package_DFN_QFN
 QFN-56-1EP_7x7mm_P0.4mm_EP5.6x5.6mm
 QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_noLead_generator.py
 QFN NoLead
@@ -67535,6 +65792,13 @@ TDFN DFN 0.5mm
 0
 17
 9
+Package_DFN_QFN
+TDFN-8_1.4x1.6mm_P0.4mm
+TDFN, 8 Pin (https://www.silabs.com/documents/public/data-sheets/si7210-datasheet.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+TDFN NoLead
+0
+8
+8
 Package_DFN_QFN
 TDFN-10-1EP_2x3mm_P0.5mm_EP0.9x2mm
 TDFN, 10 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0429.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -68770,6 +67034,20 @@ WQFN NoLead
 Package_DFN_QFN
 WQFN-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
 WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tpa6132a2.pdf#page=24), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+26
+17
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
+WQFN NoLead
+0
+21
+17
+Package_DFN_QFN
+WQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm_ThermalVias
+WQFN, 16 Pin (https://www.ti.com/lit/ds/symlink/tlv9064.pdf#page=44), generated with kicad-footprint-generator ipc_noLead_generator.py
 WQFN NoLead
 0
 26
@@ -73535,6 +71813,13 @@ SSOP 0.65 exposed pad
 18
 15
 Package_SO
+TSSOP-14_4.4x3.6mm_P0.4mm
+TSSOP, 14 Pin (JEDEC MO-194 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+14
+14
+Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -73563,12 +71848,26 @@ TSSOP SO
 26
 17
 Package_SO
+TSSOP-16_4.4x3.6mm_P0.4mm
+TSSOP, 16 Pin (JEDEC MO-194 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
+Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20_4.4x5mm_P0.4mm
+TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Package_SO
 TSSOP-20_4.4x5mm_P0.5mm
 TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -73871,6 +72170,13 @@ TSSOP SO
 52
 52
 Package_SO
+TSSOP-56_4.4x11.3mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-194 Var AF https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
 TSSOP-56_6.1x12.5mm_P0.4mm
 TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -73940,6 +72246,13 @@ TSSOP SO
 0
 80
 80
+Package_SO
+TSSOP-100_6.1x20.8mm_P0.4mm
+TSSOP, 100 Pin (JEDEC MO-194 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+100
+100
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -74288,7 +72601,7 @@ VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
 VSON 0.65
 0
-12
+13
 5
 Package_SON
 VSON-10-1EP_3x3mm_P0.5mm_EP1.2x2mm
@@ -78589,6 +76902,13 @@ ESP WROOM-02 espressif esp8266ex
 19
 19
 RF_Module
+ESP32-S2-MINI-1
+2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi Bluetooth external antenna espressif  20*15.4mm
+0
+73
+65
+RF_Module
 ESP32-S2-MINI-1U
 2.4 GHz Wi-Fi and Bluetooth combo chip, external antenna, https://www.espressif.com/sites/default/files/documentation/esp32-s3-mini-1_mini-1u_datasheet_en.pdf
 2.4 GHz Wi-Fi Bluetooth external antenna espressif  15.4*15.4mm
@@ -78602,6 +76922,20 @@ ESP32-S2  ESP32  WIFI
 0
 43
 43
+RF_Module
+ESP32-S3-WROOM-1
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
+RF_Module
+ESP32-S3-WROOM-1U
+2.4 GHz Wi-Fi and Bluetooth module  https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf
+2.4 GHz Wi-Fi and Bluetooth module
+0
+62
+41
 RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
@@ -80941,6 +79275,13 @@ DFN Sensor optical IR
 8
 8
 Sensor
+LuminOX_LOX-O2
+SST LuminOX Luminescence-based O2 sensor, https://sstsensing.com/wp-content/uploads/2021/08/DS0030rev15_LuminOx.pdf
+SST LuminOX O2
+0
+4
+4
+Sensor
 MQ-6
 Gas Sensor, 6 pin, https://www.winsen-sensor.com/d/files/semiconductor/mq-6.pdf
 gas sensor
@@ -80968,6 +79309,20 @@ co2 gas sensor pwm modbus
 0
 9
 9
+Sensor
+Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
+Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Sensirion QFN NoLead
+0
+25
+21
+Sensor
+Winson_GM-402B_5x5mm_P1.27mm
+Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
+Winson
+0
+8
+8
 Sensor_Audio
 CUI_CMC-4013-SMT
 Omnidirectional, -42dB, reflowable, electret condenser microphone https://www.cuidevices.com/product/resource/cmc-4013-smt-tr.pdf
@@ -82344,6 +80699,48 @@ Symbol
 Symbol_Highvoltage_Type2_CopperTop_Small
 Symbol, Highvoltage, Type 2, Copper Top, Small,
 Symbol, Highvoltage, Type 2, Copper Top, Small,
+0
+0
+0
+Symbol
+UKCA-Logo_6x6mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_8x8mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_12x12mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_20x20mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_30x30mm_SilkScreen
+UKCA marking
+Logo UKCA marking
+0
+0
+0
+Symbol
+UKCA-Logo_40x40mm_SilkScreen
+UKCA marking
+Logo UKCA marking
 0
 0
 0
@@ -86625,6 +85022,13 @@ Ethernet Transformer
 16
 16
 Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
+Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
 RF Transformer
@@ -87954,374 +86358,3 @@ varistor SIOV
 0
 2
 2
-keyswitches
-Cherry_MX_Plate_Placeholder
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-0
-0
-keyswitches
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches
-Kailh_socket_MX_optional
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches
-Kailh_socket_MX_optional_reversible
-MX-style keyswitch with support for reversible optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches
-Kailh_socket_MX_reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches
-Kailh_socket_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-keyswitches
-Kailh_socket_PG1350_optional
-Kailh "Choc" PG1350 keyswitch with optional socket mount
-kailh,choc
-0
-4
-2
-keyswitches
-Kailh_socket_PG1350_optional_reversible
-Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
-kailh,choc
-0
-7
-2
-keyswitches
-Kailh_socket_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-keyswitches
-SW_MX
-MX-style keyswitch
-MX,cherry,gateron,kailh
-0
-2
-2
-keyswitches
-SW_MX_reversible
-MX-style keyswitch, reversible
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches
-SW_MX_reversible_minimal
-MX-style keyswitch, reversible, without pcb-mount holes
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches
-SW_PG1350
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-keyswitches
-SW_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-keyswitches
-SW_PG1350_reversible_rotatable
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
-kailh,choc
-0
-6
-2
-keyswitches
-Stabilizer_MX_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-keyswitches github'
-Kaih_socket_MX_Choc_V1&V2_reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches github'
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches github'
-Kailh_socket_MX_RGB
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches github'
-Kailh_socket_MX_optional
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches github'
-Kailh_socket_MX_optional_platemount
-MX-style keyswitch with support for optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches github'
-Kailh_socket_MX_optional_reversible
-MX-style keyswitch with support for reversible optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches github'
-Kailh_socket_MX_optional_reversible_platemount
-MX-style keyswitch with support for reversible optional Kailh socket
-MX,cherry,gateron,kailh,pg1511,socket
-0
-8
-2
-keyswitches github'
-Kailh_socket_MX_platemount
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-2
-2
-keyswitches github'
-Kailh_socket_MX_reversible
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches github'
-Kailh_socket_MX_reversible_RGB
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches github'
-Kailh_socket_MX_reversible_platemount
-MX-style keyswitch with reversible Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
-0
-4
-2
-keyswitches github'
-Kailh_socket_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-keyswitches github'
-Kailh_socket_PG1350_PG1353
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-keyswitches github'
-Kailh_socket_PG1350_PG1353_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-keyswitches github'
-Kailh_socket_PG1350_optional
-Kailh "Choc" PG1350 keyswitch with optional socket mount
-kailh,choc
-0
-4
-2
-keyswitches github'
-Kailh_socket_PG1350_optional_reversible
-Kailh "Choc" PG1350 keyswitch with optional socket mount, reversible
-kailh,choc
-0
-7
-2
-keyswitches github'
-Kailh_socket_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch reversible socket mount
-kailh,choc
-0
-4
-2
-keyswitches github'
-SW_MX
-MX-style keyswitch
-MX,cherry,gateron,kailh
-0
-2
-2
-keyswitches github'
-SW_MX_reversible
-MX-style keyswitch, reversible
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches github'
-SW_MX_reversible_minimal
-MX-style keyswitch, reversible, without pcb-mount holes
-MX,cherry,gateron,kailh
-0
-4
-2
-keyswitches github'
-SW_PG1350
-Kailh "Choc" PG1350 keyswitch
-kailh,choc
-0
-2
-2
-keyswitches github'
-SW_PG1350_reversible
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
-kailh,choc
-0
-3
-2
-keyswitches github'
-SW_PG1350_reversible_rotatable
-Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB and/or rotated 90 degrees (see README)
-kailh,choc
-0
-6
-2
-keyswitches github'
-Stabilizer_MX_2u
-MX-style stabilizer mount
-MX,cherry,gateron,kailh,pg1511,stabilizer,stab
-0
-0
-0
-mcu
-holyiot-18010
-
-
-0
-55
-55
-mcu
-holyiot-18010-no-underside
-
-
-0
-37
-37
-mcu
-rp2040-zero-smd
-
-
-0
-23
-23
-mcu
-rp2040-zero-smd-pads
-
-
-0
-33
-33
-mcu
-rp2040-zero-smd-pads-cutout
-
-
-0
-33
-33
-mcu
-rp2040-zero-tht
-
-
-0
-23
-23
-mcu
-rp2040-zero-tht-pads
-
-
-0
-33
-33
-mcu
-rp2040-zero-tht-pads-cutout
-
-
-0
-33
-33
-mcu
-xiao-ble-smd
-
-
-0
-22
-22
-mcu
-xiao-ble-smd-cutout
-
-
-0
-22
-22
-mcu
-xiao-ble-tht
-
-
-0
-22
-22
-mcu
-xiao-smd
-
-
-0
-18
-18
-mcu
-xiao-tht
-
-
-0
-18
-18
