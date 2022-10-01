@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "keyswitches")(type "KiCad")(uri "H:/users/main/Dokuments/KiCad Designs/kicad custom library/Keyboard-Library/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "Keyboard Library")(type "KiCad")(uri "H:/users/main/Dokuments/KiCad Designs/kicad custom library/Keyboard-Library/Keyboard Library.pretty")(options "")(descr ""))
+  (lib (name "keyswitches github'")(type "KiCad")(uri "H:/users/main/Dokuments/GitHub/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "H:/users/main/Dokuments/KiCad Designs/external git/Keebio-Parts.pretty")(options "")(descr ""))
+)
