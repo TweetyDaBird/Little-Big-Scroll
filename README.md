@@ -6,9 +6,9 @@
 Usable for Media control, macro buttons, or just about anything else you can imagine and code in QMK.
 
 ### The 'family' includes:
-- **Little Big Scroll 4** - 2 or 4 Cherry MX compatible keys, one Ø40 mm encoder with button, optional OLED. (Complete)
-- **Little Big Scroll 6** - 6 Cherry MX compatible keys, one Ø40 mm encoder with button. (Complete)
-- **Little Big Scroll 8** - 8 Cherry MX compatible keys, one Ø40 mm encoder with button, optional OLED. (Prototype)
+- **Little Big Scroll 4** - 2 or 4 Cherry MX compatible buttons, one Ø40 mm encoder wheel with button, optional 128x32px OLED. (Complete and available for sale/manufacturing)
+- **Little Big Scroll 6** - 6 Cherry MX compatible buttons, one Ø40 mm encoder wheel with button. (Complete and available for sale/manufacturing)
+- **Little Big Scroll 8** - 8 Cherry MX compatible buttons, one Ø40 mm encoder wheel with button and an OLED. (Prototype)
 - **Little Big Scroll** - A single Ø40 mm encoder wheel with button. (Prototype completed, pending redesign)
 
 ### Common specifications
