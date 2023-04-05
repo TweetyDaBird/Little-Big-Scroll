@@ -4,7 +4,7 @@
 
 A low-cost and easy to build macro pad intended for amongst other things media controls. 
 
-- Uses a Promicro or equivalent controller
+- Uses a Promicro/Elite C or equivalent controller
 - Programmable with QMK and VIAL
 - Cherry MX style keyswitches
 - Kaihl hot swap sockets
