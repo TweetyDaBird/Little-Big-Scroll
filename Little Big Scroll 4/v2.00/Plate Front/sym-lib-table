@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Little_Big_Scroll_4KEY-rescue")(type "Legacy")(uri "${KIPRJMOD}/Little_Big_Scroll_4KEY-rescue.lib")(options "")(descr ""))
+  (lib (name "Little_Big_Scroll_4_Front-rescue")(type "KiCad")(uri "${KIPRJMOD}/Little_Big_Scroll_4_Front-rescue.kicad_sym")(options "")(descr ""))
+)
