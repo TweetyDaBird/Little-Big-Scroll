@@ -27,3 +27,4 @@ _autosave-*
 *.zip
 Gerbers
 */production
+*production
