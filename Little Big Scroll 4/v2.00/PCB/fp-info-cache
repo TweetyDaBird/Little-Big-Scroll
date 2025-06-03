@@ -1,4 +1,18 @@
-25024930692605458
+25138780123383689
+3rdparty
+SK6812-MINI-E
+
+
+0
+4
+4
+3rdparty
+ZMK_logo
+
+
+0
+0
+0
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64666,14 +64680,56 @@ Keyboard Common
 0
 0
 Keyboard Common
-BS-12
+CR123A MP000356 Battery holder
+BAT
+
+0
+2
+2
+Keyboard Common
+CR123A SMT Battery holder
+BAT
+
+0
+2
+2
+Keyboard Common
+CR2032_BS-12
 
 
 0
 2
 2
 Keyboard Common
-BS-12 double sided
+CR2032_BS-12 double sided
+
+
+0
+4
+2
+Keyboard Common
+CR2032_Keystone 1057
+
+
+0
+2
+2
+Keyboard Common
+CR2032_Keystone 1057 double sided
+
+
+0
+4
+2
+Keyboard Common
+CR2032_MY_1632_03
+
+
+0
+2
+2
+Keyboard Common
+CR2032_Special
 
 
 0
@@ -64743,20 +64799,6 @@ Jumper_min_v2
 2
 2
 Keyboard Common
-Keystone 1057
-
-
-0
-2
-2
-Keyboard Common
-Keystone 1057 double sided
-
-
-0
-4
-2
-Keyboard Common
 Korean Hroparts Elec K2-1107ST-A3DW-06
 3x6x2.5mm tactile switch
 SPST button tactile switch
@@ -64777,13 +64819,6 @@ MJ-4PP-9_alim
 0
 8
 4
-Keyboard Common
-MP000356 Battery holder CR123A
-BAT
-
-0
-2
-2
 Keyboard Common
 MSK12C02
 MSK12C02-1
@@ -64855,19 +64890,19 @@ Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W len
 2
 2
 Keyboard Common
-SMT Battery holder CR123A
-BAT
-
-0
-2
-2
-Keyboard Common
 SOP127P600X175-9N
 
 
 0
 9
 9
+Keyboard Common
+SOT95P280X145-5N
+
+
+0
+5
+5
 Keyboard Common
 SOT95P280X145-6N
 
@@ -64995,6 +65030,13 @@ E73-2G4M08S1C_Castellated_flexypin
 18
 7
 Keyboard Controllers
+E73-2G4M08S1C_holes
+
+
+0
+43
+43
+Keyboard Controllers
 MS50SFB
 
 
@@ -65073,6 +65115,13 @@ promicro ProMicro
 49
 Keyboard Controllers
 RP2040-Zero
+
+
+0
+23
+23
+Keyboard Controllers
+RP2040-Zero_castellated
 
 
 0
@@ -66892,6 +66941,13 @@ CE
 0
 0
 Logotypes
+Powered_By_ZMK
+Converted using: svg2mod --debug -f 2 -p 0.1 -i /home/peter/Downloads/zmk2.svg -o logo.pretty/zmk2.kicad_mod --format pretty
+svg2mod
+0
+0
+0
+Logotypes
 Powered_by_QMK
 
 
@@ -66970,6 +67026,13 @@ RoHs
 0
 Logotypes
 X65
+
+
+0
+0
+0
+Logotypes
+corne-logo-horizontal
 
 
 0
@@ -100701,3 +100764,388 @@ WeAct-RP2040-Pico
 0
 44
 44
+marbastlib-various
+CON_FH33J-4S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-4S-0.5SH, 4 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+6
+5
+marbastlib-various
+CON_FH33J-10S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-10S-0.5SH, 10 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+12
+11
+marbastlib-various
+CON_FH33J-12S-0.5SH
+Hirose FH33J FFC/FPC connector, FH33J-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/series/FH33#)
+connector Hirose FH33J horizontal
+0
+14
+13
+marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Plug_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+marbastlib-various
+CON_HytePro_M411P_Receptacle_1x04-P2.20mm_Horizontal_FlushMount
+HytePro M411P magnetic connector footprint (4 pin) Link: https://www.hyte.pro/product/m411p.html
+HytePro magnetic connector
+0
+4
+4
+marbastlib-various
+CON_JST_ACH_BM02B
+JST ACH series connector, BM02B-ACHSS-GAN-ETF (http://www.jst-mfg.com/product/pdf/eng/eACH.pdf), generated with kicad-footprint-generator
+connector JST ACH vertical
+0
+4
+3
+marbastlib-various
+CON_TC2030_outlined
+Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
+tag connect programming header pogo pins
+0
+6
+6
+marbastlib-various
+LED_1206R
+rear-mount SMD MHT151RGBCT 1206 RGB LED
+LED RGB 1206 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_6028R
+rear-mount SMD 6028 RGB LED
+LED RGB 6028 rear mount reverse
+0
+4
+4
+marbastlib-various
+LED_WS2812_2020
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-various
+Molex_Pico-EZmate_78171-0002_1x02-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0002 (http://www.molex.com/pdm_docs/sd/781710002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_78171-0003_1x03-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0003 (http://www.molex.com/pdm_docs/sd/781710003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+marbastlib-various
+Molex_Pico-EZmate_78171-0004_1x04-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0004 (http://www.molex.com/pdm_docs/sd/781710004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+marbastlib-various
+Molex_Pico-EZmate_78171-0005_1x05-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-0005 (http://www.molex.com/pdm_docs/sd/781710005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_78171-5006_1x06-1MP_P1.20mm_Vertical
+Molex Pico-EZmate series connector, 78171-5006 (http://www.molex.com/pdm_docs/sd/781715006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+20
+7
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0020_1x02-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0020 (https://www.molex.com/en-us/products/part-detail/2082940020)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0030_1x03-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940030)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0040_1x04-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+marbastlib-various
+Molex_Pico-EZmate_HC_208294-0050_1x05-1MP_P1.80mm_Vertical
+Molex Pico-EZmate series connector, 208294-0030 (https://www.molex.com/en-us/products/part-detail/2082940040)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0002_1x02-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0002 (http://www.molex.com/pdm_docs/sd/2121340002_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+16
+3
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0003_1x03-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0003 (http://www.molex.com/pdm_docs/sd/2121340003_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+17
+4
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0004_1x04-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0004 (http://www.molex.com/pdm_docs/sd/2121340004_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+18
+5
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0005_1x05-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0005 (http://www.molex.com/pdm_docs/sd/2121340005_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+19
+6
+marbastlib-various
+Molex_Pico-EZmate_PLUS_212134-0006_1x06-1MP_P1.00mm_Vertical
+Molex Pico-EZmate series connector, 212134-0006 (http://www.molex.com/pdm_docs/sd/2121340006_sd.pdf)
+connector Molex Pico-EZmate side entry
+0
+20
+7
+marbastlib-various
+PNT_RKJXU1210006
+
+
+0
+3
+1
+marbastlib-various
+QFN-60_EP_7x7_Pitch0.4mm
+QFN-60 package accroding to IS31FL3741A datasheets
+
+0
+158
+61
+marbastlib-various
+ROT_Alps_EC11E-Switch
+Alps rotary encoder, EC11E/EC11N with switch, vertical shaft
+rotary encoder
+0
+7
+6
+marbastlib-various
+ROT_SKYLOONG_HS-Switch
+SKYLOONG hotswap knob module with internal switch
+
+0
+4
+4
+marbastlib-various
+SOT-23-6-routable
+SOT, 6 Pin (https://www.jedec.org/sites/default/files/docs/Mo-178c.PDF variant AB), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOT TO_SOT_SMD
+0
+6
+6
+marbastlib-various
+SW_ESP3020
+ECE ESP3020 SMD slide switch
+slide switch smd ece
+0
+3
+3
+marbastlib-various
+SW_MSK12C02-HB
+12V 50mA SMD toggle switch, available at LCSC/JLCPCB (C431541)
+switch toggle smd 
+0
+7
+4
+marbastlib-various
+SW_SKHLLCA010
+alps SKHLLCA010 DIP pushbutton
+alps tht dip pushbutton SPST
+0
+4
+3
+marbastlib-various
+SW_SPST_SKQG_WithStem
+ALPS 5.2mm Square Low-profile Type (Surface Mount) SKQG Series, With stem, http://www.alps.com/prod/info/E/HTML/Tact/SurfaceMount/SKQG/SKQGAFE010.html
+SPST Button Switch
+0
+4
+2
+marbastlib-various
+SW_SSSS213100
+alps SKHLLCA010 DIP 1-pole, 2-position switch
+alps dip tht SPDT
+0
+3
+3
+marbastlib-various
+SW_SSSS223900
+alps SKHLLCA010 DIP 2-pole, 3-position switch
+alps tht dip DP3T
+0
+8
+8
+marbastlib-various
+SW_T1A2QR
+12V 50mA SMD pushbutton, available at LCSC/JLCPCB (C100056)
+SMD pushbutton
+0
+4
+2
+marbastlib-various
+SW_kailh_big_1u
+Footprint for Kailh "Big Switch Series" style switches
+
+0
+2
+2
+marbastlib-various
+SplitkbTentingPuck
+https://splitkb.com/products/tenting-puck
+split kb tenting puck mechanical mounting
+0
+5
+1
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-12
+USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+USB_C_Receptacle_HRO_TYPE-C-31-M-14
+USB Type-C receptacle for USB 2.0 and PD
+usb usb-c 2.0 pd
+0
+20
+17
+marbastlib-various
+XUNPU_FPC-0.5AL-20PB_1x20-1MP_P0.5mm_Vertical
+XUNPU FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2206301715_XUNPU-FPC-0-5AD-20PB_C3446061.pdf
+XUNPU  fpc FPC-0.5AL vertical
+0
+22
+21
+marbastlib-various
+XUNPU_FPC-05F-16PH20_1x16-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 16 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-16PH20
+0
+18
+17
+marbastlib-various
+XUNPU_FPC-05F-20PH20_1x20-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 20 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-20PH20
+0
+22
+21
+marbastlib-various
+XUNPU_FPC-05F-24PH20_1x24-1MP_P0.5mm_Horizontal
+XUNPU FPC connector, 24 bottom-side contacts, 0.5mm pitch, SMT, https://datasheet.lcsc.com/lcsc/2109221030_XUNPU-FPC-05F-16PH20_C2856801.pdf
+XUNPU  fpc FPC-05F-24PH20
+0
+26
+25
+marbastlib-various
+mousebites_1mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2.5mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_2mm
+
+
+0
+0
+0
+marbastlib-various
+mousebites_5p5mm_easysnap
+Mousebites designed to break easier on one side than the other, with hole to apply leverage
+mousebites hex 
+0
+0
+0
+marbastlib-various
+nRF52840_E73-2G4M08S1C
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+43
+43
+marbastlib-various
+nRF52840_E73-2G4M08S1C_simple
+Module containing a nRF52840 and most passives and antenna
+ebyte e73 2G4M08S1C nRF52840 bluetooth low energy 
+0
+28
+28
+marbastlib-various
+nRF52840_holyiot_18010
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+55
+55
+marbastlib-various
+nRF52840_holyiot_18010_HS_simple
+Module containing a nRF52840 and most passives and antenna, with only hand solderable pads
+holyiot 18010 nRF52840 bluetooth low energy 
+0
+37
+37
+marbastlib-various
+nRF52840_moko_mk08
+Module containing a nRF52840 and most passives and antenna
+moko mk08a mk08b nRF52840 bluetooth low energy 
+0
+60
+58
