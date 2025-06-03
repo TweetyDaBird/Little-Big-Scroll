@@ -35,10 +35,10 @@ A low-cost and easy to build macro pad intended for among other things media con
 ## Buildguide
 
 ### Step-by-step
-- Solder hotswap sockets in markings
-- Solder capacitors C1, C2 in markings
+- Solder hotswap sockets in markings on rear of PCB
+- Solder capacitors C1, C2 in markings on rear of PCB
 - Solder Encoder (Place from front, solder on the back)
-- Solder controller (Place **behind the PCB**, face up).
+- Solder controller (**Place behind the PCB**, buttons facing up).
 - Assemble plate & spacers.
 - Insert switches and add encoder wheel
 - Program
